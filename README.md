@@ -1,4 +1,7 @@
-This code help you to download audio and video. So,first of all you have to install python library named as ‘pytube’.
+📥 YouTube Audio & Video Downloader (Python)
+
+This project helps you download YouTube videos and audio using Python.
+It is built using the pytube library, which makes downloading YouTube content very easy.
 
 #Installation
 
