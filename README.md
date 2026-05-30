@@ -1,5 +1,4 @@
-📥 YouTube Audio & Video Downloader (Python)
-
+## YouTube Audio & Video Downloader
 This project helps you download YouTube videos and audio using Python.
 It is built using the pytube library, which makes downloading YouTube content very easy.
 
